@@ -1,0 +1,14 @@
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/UnityEngine.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/UnityEditor.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sebastianelmes/Documents/Personal Projects/Bowlmaster/Bowlmaster/Temp/bin/Debug/Mono.Cecil.Mdb.dll
